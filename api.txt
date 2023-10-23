@@ -1,0 +1,6 @@
+Website: https://home.openweathermap.org/api_keys
+api_keys: d3421d6595b08f66c9b1091e2d19e645
+Current Weather data api
+API call : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+ex: https://api.openweathermap.org/data/2.5/weather?q=London&appid=d3421d6595b08f66c9b1091e2d19e645
